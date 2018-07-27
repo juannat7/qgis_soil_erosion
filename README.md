@@ -1,12 +1,13 @@
 # Quickstart Guide
 1. Download QGIS 2.18 (stable version)
 2. Open QGIS → Plugin → Manage & Install Plugin → Setting → Check ‘Show also experimental plugin’ → ‘Add’ plugin repository and fill the following:
-
 Name: garuda-gis
-
 URL: https://stg.gis.garuda.io/soil-erosion/gr_ser.xml
-
 Keep other default as it is
+
+OR
+
+download this repository as ZIP, unzip it into your local QGIS plugin directory (eg. C:\\Users\Juan\.qgis2\python\plugins)
 
 3. Under ‘All’, find Garuda_Soil Erosion Risk and install the plugin
 4. Open the plugin and browse to the directory that holds sample input data obtained here. 
