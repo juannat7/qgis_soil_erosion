@@ -1,0 +1,10 @@
+parameters:
+1. flow accumulation map
+2. C-value map
+3. R-value map
+4. K-value map
+
+Documentation:
+1. Load active layers into comboBox (4 of them)
+
+

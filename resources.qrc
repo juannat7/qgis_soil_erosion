@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GR_SER" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

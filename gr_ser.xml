@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="Garuda_Soil Erosion Risk" version="0.2">
+        <description>This plugin evaluates soil erosion risk</description>
+        <homepage>file:\\10.8.0.1\Software2\QGIS Plugin</homepage>
+        <qgis_minimum_version>2.18.20</qgis_minimum_version>
+        <file_name>GR_SER</file_name>
+        <author_name>Juan_Nathaniel</author_name>
+        <download_url>file:\\10.8.0.1\Software2\QGIS Plugin\GR_SER\GR_SER.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
